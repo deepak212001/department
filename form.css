@@ -1,0 +1,30 @@
+table
+{
+    color:white;
+    border-radius:20px;
+    box-shadow: 2px 2px 2px ;
+}
+
+#button
+{  
+    background-color:rgb(8, 105, 16);
+    color:rgb(255, 255, 255);
+    height:50px;    
+    width:95px;
+    border-radius:2px;
+}
+
+body
+{
+background:linear-gradient(rgb(231, 117, 117),rgb(98, 98, 226));
+}
+.UPDATE
+            {
+                background-color: rgb(92, 238, 92);
+                color: rgb(2, 44, 2);   
+                border: 0;
+                border-radius: 6px;
+                height: 25px;
+                width: 80px;
+                cursor: pointer;
+            }
